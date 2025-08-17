@@ -40,12 +40,16 @@ A maintainable, version-controlled documentation deck.
 
 ---
 
-<!-- backgroundImage: url('https://picsum.photos/1200/700') -->
-<!-- backgroundSize: cover -->
-# Background Image Slide 🌄
+---
+marp: true
+backgroundImage: url('https://picsum.photos/1200/700')
+backgroundSize: cover
+---
 
-This slide demonstrates a background image using Marp directives.  
-Replace the URL with your own company-branded image.
+# 🌄 Background Image Slide
+
+This slide **has a background image** using Marp’s directive.  
+Replace the URL with your company-branded image.
 
 ---
 
@@ -66,9 +70,9 @@ T(n) = \\sum_{i=1}^{n} i = \\frac{n(n+1)}{2} = O(n^2)
 
 Marp directives and CSS let us brand the presentation:
 
-- Custom fonts and colors
-- Page numbers (enabled via `paginate: true`)
-- Consistent theme across slides
+- Custom fonts and colors  
+- Page numbers (enabled via `paginate: true`)  
+- Consistent theme across slides  
 
 ---
 
