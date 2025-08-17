@@ -40,11 +40,12 @@ A maintainable, version-controlled documentation deck.
 
 ---
 
-<!-- backgroundImage: url('https://picsum.photos/1200/700') -->
-# Background Image Slide
+<!-- _backgroundImage: url('https://picsum.photos/1200/700') -->
+<!-- _backgroundSize: cover -->
+# Background Image Slide 🌄
 
 This slide demonstrates a background image using Marp directives.  
-You can replace the URL with a company-branded image.
+Replace the URL with your own company-branded image.
 
 ---
 
@@ -78,4 +79,3 @@ Marp directives and CSS let us brand the presentation:
 - Exports to **multiple formats** with ease  
 
 📧 Contact: **24ds3000008@ds.study.iitm.ac.in**
-
