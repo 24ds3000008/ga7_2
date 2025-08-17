@@ -40,8 +40,8 @@ A maintainable, version-controlled documentation deck.
 
 ---
 
-<!-- _backgroundImage: url('https://picsum.photos/1200/700') -->
-<!-- _backgroundSize: cover -->
+<!-- backgroundImage: url('https://picsum.photos/1200/700') -->
+<!-- backgroundSize: cover -->
 # Background Image Slide 🌄
 
 This slide demonstrates a background image using Marp directives.  
